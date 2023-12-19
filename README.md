@@ -21,13 +21,15 @@ The cake design was adapted from Fazlur Rahman's creation on CodePen ([View Orig
 
 ## Accessing the Project
 
-To experience the Interactive Birthday Cake, visit the GitHub Pages link: [Interactive Birthday Cake](#)
+To experience the Interactive Birthday Cake, visit the GitHub Pages link: [Interactive Birthday Cake](https://sherryuser.github.io/cake-blow/)
 
 ## How to Use
 
 1. Go to the provided GitHub Pages link.
-2. Click on the cake to add candles.
-3. Allow microphone access and blow into your microphone to blow out the candles.
+2. Allow microphone access.
+3. Click on the cake to add candles.
+4. Blow into your device to blow out the candles.
+
 
 ## Technologies
 
@@ -37,4 +39,4 @@ To experience the Interactive Birthday Cake, visit the GitHub Pages link: [Inter
 
 ## License
 
-This project is released under the MIT License. This means it can be used, modified, and distributed freely, as long as it is not used for commercial purposes.
+This project is released under the [MIT License](LICENSE). This means it can be used, modified, and distributed freely, as long as it is not used for commercial purposes.
