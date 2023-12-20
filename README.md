@@ -1,3 +1,5 @@
+![Banner Image](main.png)
+
 # 🎂 Interactive Birthday Cake Project 🎉
 
 ## Overview
@@ -29,7 +31,6 @@ To experience the Interactive Birthday Cake, visit the GitHub Pages link: [Inter
 2. Allow microphone access.
 3. Click on the cake to add candles.
 4. Blow into your device to blow out the candles.
-
 
 ## Technologies
 
